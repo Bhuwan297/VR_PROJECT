@@ -1,0 +1,172 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "ScriptAssemblies",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.BuildTools.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Core.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.CSharpSupport.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.DotNet.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.NativeProgramSupport.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Stevedore.Program.exe"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.TinyProfiler2.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Toolchain.GNU.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Toolchain.LLVM.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Toolchain.VisualStudio.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Toolchain.Xcode.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.Tools.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.TundraBackend.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Bee.VisualStudioSolution.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/BeeBuildProgramCommon.Data.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/BeeBuildProgramCommon.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/ClassRegistrationGenerator.exe"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Newtonsoft.Json.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/NiceIO.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/ScriptCompilationBuildProgram.exe"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/SharpYaml.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Api.Attributes.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Cecil.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Cecil.Mdb.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Cecil.Pdb.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Cecil.Rocks.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Unity.IL2CPP.Api.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Unity.IL2CPP.Bee.BuildLogic.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Linker.Api.dll"
+    },
+    {
+      "File": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline/Unity.Options.dll"
+    },
+    {
+      "File": "Library/Bee/200b0aE-inputdata.json"
+    }
+  ],
+  "StatSignatures": [
+    {
+      "File": "Assets/csc.rsp"
+    },
+    {
+      "File": "Assets/mcs.rsp"
+    },
+    {
+      "File": "Library/Bee/200b0aE-inputdata.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "/Users/bhuwankandel/Desktop/term 1/Term 3/Pervasive immersive User Experience/2021.3.18f1/Unity.app/Contents/Tools/BuildPipeline"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".pdb"
+  ],
+  "StructuredLogFileName": "Library/Bee/tundra.log.json",
+  "StateFileName": "Library/Bee/TundraBuildState.state",
+  "StateFileNameTmp": "Library/Bee/TundraBuildState.state.tmp",
+  "StateFileNameMapped": "Library/Bee/TundraBuildState.state.map",
+  "ScanCacheFileName": "Library/Bee/tundra.scancache",
+  "ScanCacheFileNameTmp": "Library/Bee/tundra.scancache.tmp",
+  "DigestCacheFileName": "Library/Bee/tundra.digestcache",
+  "DigestCacheFileNameTmp": "Library/Bee/tundra.digestcache.tmp",
+  "EmitDataForBeeWhy": 0,
+        "NamedNodes": {
+          "all_tundra_nodes": 0,
+          "ScriptAssemblies": 1
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "Library/Bee/200b0aE.dag.json",
+  "RelativePathToRoot": "../.."
+}
