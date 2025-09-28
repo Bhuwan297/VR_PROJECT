@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/BhuwanScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Menu scenes/MainMenu.unity
+    guid: 6c440cc3855b84c6fbed523e89eae0e7
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: 2f2e56a07dbaa418fab858cecc906002
+    path: Assets/Menu scenes/BhuwanScene.unity
+    guid: a95948bacd7c0453fb1f4b605ec75e8d
   - enabled: 1
-    path: Assets/Scenes/VarshitScene.unity
-    guid: 58a52df0cd2f14c5da8421f7df300ba6
+    path: Assets/Menu scenes/VarshitScene.unity
+    guid: 7bbd9a3cfb4124db2942172bd5731b78
   m_configObjects: {}
