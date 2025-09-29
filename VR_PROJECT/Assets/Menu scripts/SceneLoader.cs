@@ -3,6 +3,14 @@ using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
 {
-    public void LoadBhuwanScene()  => SceneManager.LoadScene("BhuwanScene");
-    public void LoadVarshitScene() => SceneManager.LoadScene("VarshitScene");
+    // Call these from your UI buttons
+    public void LoadBhuwanScene()
+    {
+        SceneManager.LoadScene("BhuwanScene", LoadSceneMode.Single);
+    }
+
+    public void LoadVarshitScene()
+    {
+        SceneManager.LoadScene("VarshitScene", LoadSceneMode.Single);
+    }
 }
