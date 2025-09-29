@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/BhuwanScene.unity
+- path: Assets/Menu scenes/BhuwanScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
